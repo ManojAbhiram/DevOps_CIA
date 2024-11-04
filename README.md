@@ -1,2 +1,2 @@
 # DevOps_CIA
-A Repo using AWS Code Pipeline For Deploying a website
+Creating a Repo using AWS Code Pipeline For Deploying a website
